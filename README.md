@@ -26,7 +26,7 @@
    </tr>
   
   <tr>
-    <td align="center"><img src="images/programming.png" width="75px;" height="75px;" alt="programming"/><br /><b>Software Development</b></a></td>
+    <td align="center"></td>
     <td align="center"><img src="images/python.png" width="75px;" height="75px;" alt="Python"/><br /><b>Python</b></a></td>
     <td align="center"><img src="images/Go.png" width="75px;" height="75px;" alt="go"/><br /><b>Go</b></a></td>
     <td align="center"><img src="images/bash.png" width="75px;" height="75px;" alt="Bash"/><br /><b>Shell Scripting</b></a></td>
@@ -42,11 +42,7 @@
     
   </tr>
   <tr>
-    <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"><a href="#virtualization"><img src="images/virtualization.png" width="75px;" height="75px;" alt="Virtualization"/><br /><b>Virtualization</b></a></td>
-    <td align="center"></td>
+    
   </tr>
   
   <tr>

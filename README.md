@@ -23,7 +23,9 @@
     <td align="center"><img src="images/git.png" width="75px;" height="75px;" alt="Git"/><br /><b>Git</b></a></td>
     <td align="center"><img src="images/ansible.png" width="75px;" height="75px;" alt="ansible"/><br /><b>Ansible</b></a></td>
     <td align="center"><img src="images/network.png" width="75px;" height="75px;" alt="Network"/><br /><b>Networking Basic</b></a></td>
-   
+   </tr>
+  
+  <tr>
     <td align="center"></td>
     <td align="center"><img src="images/python.png" width="75px;" height="75px;" alt="Python"/><br /><b>Python</b></a></td>
     <td align="center"><img src="images/Go.png" width="75px;" height="75px;" alt="go"/><br /><b>Go</b></a></td>
@@ -52,10 +54,7 @@
   </tr>
   <tr>
       <td align="center"><img src="images/terraform.png" width="75px;" height="75px;" alt="Terraform"/><br /><b>Terraform</b></a></td>
-      <td align="center"></td>
-      <td align="center"</td>
-      <td align="center"></td>
-      <td align="center"></td>
+      
   </tr>
   <tr>
       <td align="center"></td>
@@ -81,5 +80,4 @@
 <!-- markdownlint-enable -->
 <!-- prettier-ignore-end -->
 <!-- ALL-TOPICS-LIST:END -->
-
 

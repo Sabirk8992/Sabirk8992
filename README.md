@@ -22,12 +22,11 @@
     <td align="center"><img src="images/cicd.png" width="75px;" height="75px;" alt="cicd"/><br /><b>CI/CD</b></a></td>
     <td align="center"><img src="images/git.png" width="75px;" height="75px;" alt="Git"/><br /><b>Git</b></a></td>
     <td align="center"><img src="images/ansible.png" width="75px;" height="75px;" alt="ansible"/><br /><b>Ansible</b></a></td>
-    <td align="center"><img src="images/network.png" width="75px;" height="75px;" alt="Network"/><br /><b>Network</b></a></td>
-   
-
-  </tr>
+    <td align="center"><img src="images/network.png" width="75px;" height="75px;" alt="Network"/><br /><b>Networking Basic</b></a></td>
+   </tr>
+  
   <tr>
-    
+    <td align="center"><#/software_development"><img src="images/programming.png" width="75px;" height="75px;" alt="programming"/><br /><b>Software Development</b></a></td>
     <td align="center"><a href="https://github.com/bregman-arie/python-exercises"><img src="images/python.png" width="75px;" height="75px;" alt="Python"/><br /><b>Python</b></a></td>
     <td align="center"><a href="https://github.com/bregman-arie/go-exercises"><img src="images/Go.png" width="75px;" height="75px;" alt="go"/><br /><b>Go</b></a></td>
     <td align="center"><#/shell"><img src="images/bash.png" width="75px;" height="75px;" alt="Bash"/><br /><b>Shell Scripting</b></a></td>
@@ -118,8 +117,16 @@ If you are looking for a way to prepare for a certain exam this is the section f
 
 <p align="center"><a href="https://github.com/bregman-arie/sre-checklist"><img width="500px" src="images/sre_checklist.png"/></a></p>
 
-<p align="center"><a href="https://github.com/bregman-arie/howtheydevops"><img src="images/hdgd.png"/></a></p>
-<p align="center"><a href="https://github.com/bregman-arie/devops-resources"><img src="images/ddgdgs.png"/></a></p>
-<p align="center"><a href="https://github.com/bregman-arie/infraverse"><img src="images/infgegerse.png"/></a></p>
+<p align="center"><a href="https://github.com/bregman-arie/howtheydevops"><img src="images/how_they_devops.png"/></a></p>
+<p align="center"><a href="https://github.com/bregman-arie/devops-resources"><img src="images/devops_resources.png"/></a></p>
+<p align="center"><a href="https://github.com/bregman-arie/infraverse"><img src="images/infraverse.png"/></a></p>
 
+## Credits
 
+Thanks to all of our amazing [contributors](https://github.com/bregman-arie/devops-exercises/graphs/contributors) who make it easy for everyone to learn new things :)
+
+Logos credits can be found [here](credits.md)
+
+## License
+
+[![License: CC BY-NC-ND 3.0](https://img.shields.io/badge/License-CC%20BY--NC--ND%203.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-nd/3.0/)

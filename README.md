@@ -83,3 +83,7 @@
 <!-- prettier-ignore-end -->
 <!-- ALL-TOPICS-LIST:END -->
 
+<img src="images/aws.png" width="100px;" height="75px;" alt="aws"/><br /><b>AWS</b></a>
+<img src="images/aws.png" width="100px;" height="75px;" alt="aws"/><br /><b>AWS</b></a>
+<img src="images/aws.png" width="100px;" height="75px;" alt="aws"/><br /><b>AWS</b></a>
+

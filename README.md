@@ -34,9 +34,9 @@
  
   </tr>
   <tr>
-    <td align="center"><#/cloud"><img src="images/cloud.png" width="75px;" height="75px;" alt="Cloud"/><br /><b>Cloud</b></a></td>
+    <td align="center"></td>
     <td align="center"><#/aws"><img src="images/aws.png" width="100px;" height="75px;" alt="aws"/><br /><b>AWS</b></a></td>
-    <td align="center"><#/azure"><img src="images/azure.png" width="75px;" height="75px;" alt="azure"/><br /><b>Azure</b></a></td>
+    <td align="center"></td>
     <td align="center"><#/gcp"><img src="images/googlecloud.png" width="70px;" height="70px;" alt="Google Cloud Platform"/><br /><b>Google Cloud Platform</b></a></td>
     <td align="center"></td>
   </tr>

@@ -33,7 +33,6 @@
     <td align="center"><img src="images/kubernetes.png" width="75px;" height="75px;" alt="kubernetes"/><br /><b>Kubernetes</b></a></td>
  
   </tr>
-  :stop_sign: &nbsp; Here I have added My all Details
   <tr>
     <td align="center">:stop_sign: &nbsp; Here I have added My all Details</td>
     <td align="center"><img src="images/aws.png" width="100px;" height="75px;" alt="aws"/><br /><b>AWS</b></a></td>
@@ -45,7 +44,7 @@
   <tr>
     
   </tr>
-  :stop_sign: &nbsp; Here I have added My all Details
+  
   <tr>
     <td align="center"></td>
     <td align="center"><img src="images/containers.png" width="75px;" height="75px;" alt="Containers"/><br /><b>Containers</b></a></td>
@@ -54,9 +53,11 @@
     <td align="center"></td>
   </tr>
   <tr>
-      <td align="center"></td>
       <td align="center"><img src="images/terraform.png" width="75px;" height="75px;" alt="Terraform"/><br /><b>Terraform</b></a></td>
-      
+      <td align="center"></td>
+      <td align="center"</td>
+      <td align="center"></td>
+      <td align="center"></td>
   </tr>
   <tr>
       <td align="center"></td>
@@ -82,8 +83,4 @@
 <!-- markdownlint-enable -->
 <!-- prettier-ignore-end -->
 <!-- ALL-TOPICS-LIST:END -->
-
-<img src="images/aws.png" width="100px;" height="75px;" alt="aws"/><br /><b>AWS</b></a>
-<img src="images/aws.png" width="100px;" height="75px;" alt="aws"/><br /><b>AWS</b></a>
-<img src="images/aws.png" width="100px;" height="75px;" alt="aws"/><br /><b>AWS</b></a>
 

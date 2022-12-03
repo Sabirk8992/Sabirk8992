@@ -48,13 +48,7 @@
     <td align="center"><a href="#virtualization"><img src="images/virtualization.png" width="75px;" height="75px;" alt="Virtualization"/><br /><b>Virtualization</b></a></td>
     <td align="center"></td>
   </tr>
-  <tr>
-    <td align="center"><a href="#testing"><img src="images/testing.png" width="75px;" height="75px;" alt="Testing"/><br /><b>Testing</b></a></td>
-    <td align="center"><a href="#databases"><img src="images/databases.png" width="75px;" height="75px;" alt="Databases"/><br /><b>Databases</b></a></td>
-    <td align="center"><a href="#regex"><img src="images/regex.png" width="75px;" height="75px;" alt="RegEx"/><br /><b>Regex</b></a></td>
-    <td align="center"><a href="#system-design"><img src="images/design.png" width="75px;" height="75px;" alt="Design"/><br /><b>System Design</b></a></td>
-    <td align="center"><a href="#hardware"><img src="images/hardware.png" width="75px;" height="75px;" alt="Hardware"/><br /><b>Hardware</b></a></td>
-  </tr>
+  
   <tr>
     <td align="center"></td>
     <td align="center"><#/containers"><img src="images/containers.png" width="75px;" height="75px;" alt="Containers"/><br /><b>Containers</b></a></td>

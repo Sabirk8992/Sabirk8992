@@ -1,14 +1,14 @@
 <p align="center"><img src=""/></p>
 
-:information_source: &nbsp;This repo contains questions and exercises on various technical topics, sometimes related to DevOps and SRE
+:information_source: &nbsp;Welcome to my Profile 
 
-:bar_chart: &nbsp;There are currently **2619** exercises and questions
+:bar_chart: &nbsp; I am Devops Engineer form Pune, India
 
-:warning: &nbsp;You can use these for preparing for an interview but most of the questions and exercises don't represent an actual interview. Please read [FAQ page](faq.md) for more details
+:warning: &nbsp;Find Out More about me
 
-:stop_sign: &nbsp;If you are interested in pursuing a career as DevOps engineer, learning some of the concepts mentioned here would be useful, but you should know it's not about learning all the topics and technologies mentioned in this repository
+:stop_sign: &nbsp; Here I have added My all Details
 
-:pencil: &nbsp;You can add more exercises by submitting pull requests :) Read about contribution guidelines [here](CONTRIBUTING.md)
+:pencil: &nbsp; find my projects
 
 ****
 

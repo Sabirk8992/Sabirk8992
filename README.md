@@ -1,8 +1,8 @@
 <p align="center"><img src=""/></p>
 
-:information_source: &nbsp;Welcome to my Profile 
+:information_source: &nbsp;Hi, I am Sabir 
 
-:bar_chart: &nbsp; I am Devops Engineer form Pune, India
+:bar_chart: &nbsp; I am Devops Engineer from Pune, India
 
 :warning: &nbsp;Find Out More about me
 
@@ -27,7 +27,7 @@
 
   </tr>
   <tr>
-    <td align="center"><#/software_development"><img src="images/programming.png" width="75px;" height="75px;" alt="programming"/><br /><b>Software Development</b></a></td>
+    
     <td align="center"><a href="https://github.com/bregman-arie/python-exercises"><img src="images/python.png" width="75px;" height="75px;" alt="Python"/><br /><b>Python</b></a></td>
     <td align="center"><a href="https://github.com/bregman-arie/go-exercises"><img src="images/Go.png" width="75px;" height="75px;" alt="go"/><br /><b>Go</b></a></td>
     <td align="center"><#/shell"><img src="images/bash.png" width="75px;" height="75px;" alt="Bash"/><br /><b>Shell Scripting</b></a></td>

@@ -118,16 +118,8 @@ If you are looking for a way to prepare for a certain exam this is the section f
 
 <p align="center"><a href="https://github.com/bregman-arie/sre-checklist"><img width="500px" src="images/sre_checklist.png"/></a></p>
 
-<p align="center"><a href="https://github.com/bregman-arie/howtheydevops"><img src="images/how_they_devops.png"/></a></p>
-<p align="center"><a href="https://github.com/bregman-arie/devops-resources"><img src="images/devops_resources.png"/></a></p>
-<p align="center"><a href="https://github.com/bregman-arie/infraverse"><img src="images/infraverse.png"/></a></p>
+<p align="center"><a href="https://github.com/bregman-arie/howtheydevops"><img src="images/hdgd.png"/></a></p>
+<p align="center"><a href="https://github.com/bregman-arie/devops-resources"><img src="images/ddgdgs.png"/></a></p>
+<p align="center"><a href="https://github.com/bregman-arie/infraverse"><img src="images/infgegerse.png"/></a></p>
 
-## Credits
 
-Thanks to all of our amazing [contributors](https://github.com/bregman-arie/devops-exercises/graphs/contributors) who make it easy for everyone to learn new things :)
-
-Logos credits can be found [here](credits.md)
-
-## License
-
-[![License: CC BY-NC-ND 3.0](https://img.shields.io/badge/License-CC%20BY--NC--ND%203.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-nd/3.0/)

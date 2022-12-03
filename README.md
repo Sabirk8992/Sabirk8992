@@ -53,6 +53,7 @@
     <td align="center"></td>
   </tr>
   <tr>
+      <td align="center"></td>
       <td align="center"><img src="images/terraform.png" width="75px;" height="75px;" alt="Terraform"/><br /><b>Terraform</b></a></td>
       
   </tr>

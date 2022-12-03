@@ -34,7 +34,7 @@
  
   </tr>
   <tr>
-    <td align="center"></td>
+    <td align="center">:stop_sign: &nbsp; Here I have added My all Details</td>
     <td align="center"><img src="images/aws.png" width="100px;" height="75px;" alt="aws"/><br /><b>AWS</b></a></td>
     <td align="center"></td>
     <td align="center"><img src="images/googlecloud.png" width="70px;" height="70px;" alt="Google Cloud Platform"/><br /><b>Google Cloud Platform</b></a></td>

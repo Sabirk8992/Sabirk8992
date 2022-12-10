@@ -24,7 +24,7 @@ Started my Career as Wordpress Designer and Admin , now Working as DevOps Engine
 <br /><br />
 # My Devops Projects and Experiments:
 
-🚀  <strong> Wordpress Website Containerization with Docker Compose 
+🚀  <strong> Wordpress Website Containerization with Docker Compose for High Availability </strong>
   
 🚀 coming soonnnnnn  .... Kubernetes...
   

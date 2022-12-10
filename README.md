@@ -1,7 +1,7 @@
 # Hi there, I'm Sabir  👋
 
 <div align="center">
-  <img width="100%" src="https://github.com/Sabirk8992/Sabirk8992/blob/main/images/Sabir.jpg" alt="cover" />
+  <img width="100%" src="https://github.com/Sabirk8992/Sabirk8992/blob/main/images/Sabir (3).jpg" alt="cover" />
 </div>
 
 

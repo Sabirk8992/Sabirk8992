@@ -8,8 +8,9 @@
 <br /><br />
 
 ## About me
-I am Sabir from Pune, India, I am Devops Engineer and a Cloud enthusiast.  
-I always want to learn new tools and skills
+I am Sabir from Pune, India.
+I like to learn new Tools and Skills
+Started my Career as Wordpress Designer and Admin , now Working as DevOps Engineer.
 
 # My Devops Skills :
 <div align="center">
@@ -21,7 +22,15 @@ I always want to learn new tools and skills
 </div>
 
 <br /><br />
+# My Devops Projects and Experiments:
 
+🚀  <strong> Wordpress Website Containerization with Docker Compose 
+  
+🚀 coming soonnnnnn  .... Kubernetes...
+  
+🚀 coming soonnnnnn ....ansible......
+  
+🚀  
 
 <h2><i>Follow me:</i></h2>
 <div  align="center">

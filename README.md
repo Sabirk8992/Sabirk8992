@@ -26,7 +26,7 @@ Started my Career as Wordpress Designer and Admin , now Working as DevOps Engine
 
 🚀  <strong> Wordpress Website Containerization with Docker Compose for High Availability </strong>
   
-🚀 coming soonnnnnn  .... Kubernetes...
+🚀 <strong> Automating the process of installing and setting up Docker with containers on a remote server with Nginx Image </strong>
   
 🚀 coming soonnnnnn ....ansible......
   

@@ -20,7 +20,20 @@ Started my Career as Wordpress Designer and Admin , now Working as DevOps Engine
 <div align="center">
   <img width="100%" src="https://github.com/Sabirk8992/Sabirk8992/blob/main/images/Sabir (2).jpg" alt="cover" />
 </div>
-
+<br>
+<br>
+<strong>My AWS stacks:</strong>
+ <br>🐋 CloudFormation 
+ <br>🐡 AWS IAM
+ <br>🦑 AWS CLI
+ <br>🐙 Amazon S3
+ <br>🐬 Amazon Lambda
+ <br>☁️ Amazon CloudTrail
+ <br>🐠 ELB
+ <br>🦀 Amazon EC2 Auto Scaling
+ <br>🦐 Amazon RDS
+ <br>🦞 Amazon ECS and EKS
+ 
 <br /><br />
 # My Devops Projects and Experiments:
 

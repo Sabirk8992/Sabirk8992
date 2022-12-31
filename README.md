@@ -41,9 +41,9 @@ Started my Career as Wordpress Designer and Admin , now Working as DevOps Engine
   
 🚀 <strong> Automating the process of installing and setting up Docker with containers on a remote server with Nginx Image </strong>
   
-🚀 coming soonnnnnn ....ansible......
+🚀 <strong> [Deploying S3 Bucket policy using Terraform IaC that allow access to the bucket only from whitelisted public IPs](https://github.com/Sabirk8992/Devopsp-Project-S3-IAAC-IAM) </strong>
   
-🚀  
+🚀  coming soonnnnnn ....ansible......
 
 <h2><i>Follow me:</i></h2>
 <div  align="center">
